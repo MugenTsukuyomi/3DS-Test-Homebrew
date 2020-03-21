@@ -1,12 +1,13 @@
 # 3DS-Test-Homebrew
+The cc can print text on the Display 
+and it can run the eur region 3ds camera
+App by pressing the A button. 
 The cc is a homebrew app that I have 
 Programmed Without 
 programming skills. 
 So I don't know how to load textures.
 # cc.cia
-This file does not exist until 
-a later version. 
-
+This file exists from version 3.0.
 # cc.3dsx 
 The 3dsx is the program 
 that runs in the hblauncher. 
