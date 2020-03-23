@@ -1,3 +1,12 @@
+# Note 
+This program works
+ error-free up to 
+version 3.0.
+For an error-free eur camera app
+ launcher use Romfs-Test. 
+# 6.2 
+has still the camera launch 
+function but it no longer works.  
 # 3DS-Test-Homebrew
 The cc can print text on the Display 
 and it can run the eur region 3ds camera
