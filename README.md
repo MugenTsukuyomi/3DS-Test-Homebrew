@@ -1,4 +1,5 @@
 # Note 
+# The program is no longer supported 
 This program works
  error-free up to 
 version 3.0.
